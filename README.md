@@ -9,5 +9,6 @@ Used Tools:
 - Pandas
 - Python3
 - data set (Boston)
+- Jupyter Notebook
 
 # Accuracy is lump sum (close enough).
